@@ -3,7 +3,7 @@ plugins {
 	id 'eclipse'
 }
 
-sourceCompatibility = '12'
+sourceCompatibility = '11'
 
 repositories {
 	mavenCentral()
